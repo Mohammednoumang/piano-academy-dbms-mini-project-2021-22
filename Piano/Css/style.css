@@ -1,0 +1,21 @@
+.footer {
+  color: white;
+  padding: 20px 50px 10px 50px;
+  background-color: #0da2a6;
+}
+
+.carousel-item img {
+  position: center;
+  height: 600px;
+  width: 100%;
+}
+
+.pd {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#imgResize {
+  height: 400px;
+  width: 350px;
+}
