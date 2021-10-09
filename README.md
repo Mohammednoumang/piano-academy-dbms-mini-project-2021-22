@@ -8,8 +8,8 @@
 6. Go to the browser and type your localhost, folder name and then piano.php to start the web page.
 	For Example: localhost:8080/Piano/piano.php
 
-![Virtual_piano](https://imgur.com/r0ycUum.jpg)
-![dashboard](https://imgur.com/LjUE5dp.jpg)
+![Virtual_piano](https://imgur.com/r0ycUum.png)
+![dashboard](https://imgur.com/LjUE5dp.png)
 ![register_student](https://imgur.com/eUkeqq8)
 ![admin_login](https://imgur.com/1i8QSOn)
 ![user_login](https://imgur.com/QmvzQ35)
