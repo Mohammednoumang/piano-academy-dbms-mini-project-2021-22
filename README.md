@@ -9,7 +9,7 @@
 	For Example: localhost:8080/Piano/piano.php
 
 ![Virtual_piano](https://imgur.com/r0ycUum.jpg)
-![dashboard](https://imgur.com/LjUE5dp)
+![dashboard](https://imgur.com/LjUE5dp.jpg)
 ![register_student](https://imgur.com/eUkeqq8)
 ![admin_login](https://imgur.com/1i8QSOn)
 ![user_login](https://imgur.com/QmvzQ35)
